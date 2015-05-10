@@ -1,8 +1,8 @@
 ---
 title: "clocksync"
-bg: turquoise
+bg: blue
 color: white
-fa-icon: connecteddevelop
+fa-icon: clock-o
 ---
 
 jjasdasdasffds
