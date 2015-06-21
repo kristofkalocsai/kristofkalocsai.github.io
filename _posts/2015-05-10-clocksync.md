@@ -9,4 +9,5 @@ fa-icon: clock-o
 **BUTE-MIS Project Laboratory**
 
 pre-alpha implementation of PTP on TM4C1294 TI Connected LaunchPad with FreeRTOS and lwIP
-GitHub repo [here](https://github.com/kristofkalocsai/clocksync)
+
+fork it on [GitHub](https://github.com/kristofkalocsai/clocksync)
